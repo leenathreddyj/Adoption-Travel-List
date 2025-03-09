@@ -1,16 +1,24 @@
-# adoption_travel_list
+# Adoption & Travel Plans App
 
-A new Flutter project.
+## 📌 Project Overview
+This is a Flutter app that manages **adoption and travel plans**, allowing users to:
+- Add, edit, complete, and delete plans.
+- Drag and drop plans into a calendar.
+- Assign priorities (Low, Medium, High).
+- Swipe to complete a plan.
+- Sort plans by priority.
+- Use gestures (long-press to edit, double-tap to delete).
 
-## Getting Started
+## 📌 Features Implemented
+✅ **Drag-and-drop interface for adding plans**  
+✅ **Interactive calendar with plan scheduling**  
+✅ **Color-coded priority system**  
+✅ **Swipe to mark plan as completed**  
+✅ **Long-press to edit plans**  
+✅ **Double-tap to delete plans**  
+✅ **State management using `setState()`**  
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📌 How to Run the Project
+```bash
+flutter pub get
+flutter run
