@@ -30,9 +30,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_slidable: ^3.0.0  # For swipe gestures
-  intl: ^0.18.0  # For date formatting
-  table_calendar: ^3.0.9  # For interactive calendar
+  flutter_slidable: ^4.0.0  # Updated
+  intl: ^0.20.2  # Updated
+  table_calendar: ^3.2.0  # Updated
 
 
   # The following adds the Cupertino Icons font to your application.

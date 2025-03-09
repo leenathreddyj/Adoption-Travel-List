@@ -3,8 +3,8 @@ class Plan {
   String description;
   DateTime date;
   bool isCompleted;
-  String category; // 'adoption' or 'travel'
-  String priority; // 'Low', 'Medium', 'High'
+  String category;
+  String priority;
 
   Plan({
     required this.name,
